@@ -19,6 +19,7 @@ namespace MCD_GitProject
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Thanx Lerato
             MessageBox.Show("Hello Sibusiso and Lerato");
         }
     }
