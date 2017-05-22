@@ -19,7 +19,7 @@ namespace MCD_GitProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World...");
+            MessageBox.Show("Hello Sibusiso...");
         }
     }
 }
